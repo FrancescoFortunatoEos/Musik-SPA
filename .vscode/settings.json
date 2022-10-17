@@ -1,0 +1,4 @@
+{
+    "CRS.FileNamePattern": "<ObjectType> <ObjectId> <ObjectName>.al",
+    "CRS.FileNamePatternExtensions": "<ObjectType> <BaseId> <BaseName>.al",   
+}
