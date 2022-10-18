@@ -11,11 +11,17 @@
             "authentication": "UserPassword",
             "startupObjectId": 50101,          // numero dell'oggetto
             "startupObjectType": "Report",
+            "environmentType": "OnPrem",
+            "server": "http://bcserver",
+            "serverInstance": "BC",
+            "authentication": "UserPassword",
+            "startupObjectId": 20,
+            "startupObjectType": "Page",
             "breakOnError": "All",
             "launchBrowser": true,
             "enableLongRunningSqlStatements": true,
             "enableSqlInformationDebugger": true,
             "tenant": "default"
         }
-    ]
+]
 }
