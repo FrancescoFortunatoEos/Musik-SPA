@@ -5,6 +5,12 @@
             "name": "Your own server",
             "request": "launch",
             "type": "al",
+            "environmentType": "OnPrem",    // tipo di ambiente
+            "server": "http://bcserver",    // nome del container
+            "serverInstance": "BC",     
+            "authentication": "UserPassword",
+            "startupObjectId": 50101,          // numero dell'oggetto
+            "startupObjectType": "Report",
             "environmentType": "OnPrem",
             "server": "http://bcserver",
             "serverInstance": "BC",
