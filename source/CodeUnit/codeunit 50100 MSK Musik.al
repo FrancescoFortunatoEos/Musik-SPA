@@ -8,7 +8,7 @@ codeunit 50100 "MSK Musik"
             SkipCheckReleaseRestrictions: Boolean
     )
     begin
-        if ((SalesHeader."Responsibility Center" = '') Or (SalesHeader."Your Reference" = '') Or (SalesHeader."Reason Code" = '')) then
+        if ((SalesHeader."Responsibility Center" = '') Or (SalesHeader."External Document No." = '') Or (SalesHeader."Reason Code" = '')) then
             Error('Insert the responsibility center, the external document number and the reason code.');
     end;
 
