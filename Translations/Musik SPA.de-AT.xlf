@@ -1,0 +1,97 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
+  <file datatype="xml" source-language="en-US" target-language="de-AT">
+    <body>
+      <group id="body">
+        <trans-unit id="Page 160917763 - Property 2879900210" translate="yes" size-unit="char" xml:space="preserve">
+          <source>MSK Info List</source>
+          <target>MSK Infoliste</target>
+        </trans-unit>
+        <trans-unit id="Page 2444188753 - Control 2249974637 - Property 2879900210" translate="yes" size-unit="char" xml:space="preserve">
+          <source>MSK Information</source>
+          <target>MSK Informationen</target>
+        </trans-unit>
+        <trans-unit id="Page 3546050771 - Action 1954881473 - Property 2879900210" translate="yes" size-unit="char" xml:space="preserve">
+          <source>Card</source>
+          <target>Karte</target>
+        </trans-unit>
+        <trans-unit id="Page 3546050771 - Property 2879900210" translate="yes" size-unit="char" xml:space="preserve">
+          <source>MSK Garanzia Factbox</source>
+          <target>MSK Garanzia Factbox</target>
+        </trans-unit>
+        <trans-unit id="PageExtension 1840725882 - Control 427028794 - Property 2879900210" translate="yes" size-unit="char" xml:space="preserve">
+          <source>Warranty</source>
+          <target>Garantie</target>
+        </trans-unit>
+        <trans-unit id="PageExtension 2050616478 - Control 52796097 - Property 1295455071" translate="yes" size-unit="char" xml:space="preserve">
+          <source>Specifies the address that the products on the sales document are shipped to. Default (Sell-to Address): The same as the customer's sell-to address. Alternate Ship-to Address: One of the customer's alternate ship-to addresses. Custom Address: Any ship-to address that you specify in the fields below.</source>
+          <target>Gibt die Adresse an, an die die Produkte im Verkaufsbeleg gesendet werden. Standard (Sell-to-Adresse): Identisch mit der Sell-to-Adresse des Kunden. Alternative Lieferadresse: Eine der alternativen Lieferadressen des Kunden. Benutzerdefinierte Adresse: Jede Lieferadresse, die Sie in den folgenden Feldern angeben.</target>
+        </trans-unit>
+        <trans-unit id="PageExtension 2050616478 - Control 52796097 - Property 2879900210" translate="yes" size-unit="char" xml:space="preserve">
+          <source>Ship-to</source>
+          <target>Versenden nach</target>
+        </trans-unit>
+        <trans-unit id="PageExtension 2050616478 - Control 52796097 - Property 62802879" translate="yes" size-unit="char" xml:space="preserve">
+          <source>Default (Sell-to Address),Alternate Shipping Address,Custom Address</source>
+          <target>Standard (Verkaufsadresse),Alternative Lieferadresse,Benutzerdefinierte Adresse</target>
+        </trans-unit>
+        <trans-unit id="PageExtension 2478422499 - Control 52796097 - Property 1295455071" translate="yes" size-unit="char" xml:space="preserve">
+          <source>Specifies the address that the products on the sales document are shipped to. Default (Sell-to Address): The same as the customer's sell-to address. Alternate Ship-to Address: One of the customer's alternate ship-to addresses. Custom Address: Any ship-to address that you specify in the fields below.</source>
+          <target>Gibt die Adresse an, an die die Produkte im Verkaufsbeleg gesendet werden. Standard (Sell-to-Adresse): Identisch mit der Sell-to-Adresse des Kunden. Alternative Lieferadresse: Eine der alternativen Lieferadressen des Kunden. Benutzerdefinierte Adresse: Jede Lieferadresse, die Sie in den folgenden Feldern angeben.</target>
+        </trans-unit>
+        <trans-unit id="PageExtension 2478422499 - Control 52796097 - Property 2879900210" translate="yes" size-unit="char" xml:space="preserve">
+          <source>Ship-to</source>
+          <target>Versenden nach</target>
+        </trans-unit>
+        <trans-unit id="PageExtension 2478422499 - Control 52796097 - Property 62802879" translate="yes" size-unit="char" xml:space="preserve">
+          <source>Default (Sell-to Address),Alternate Shipping Address,Custom Address</source>
+          <target>Standard (Verkaufsadresse),Alternative Lieferadresse,Benutzerdefinierte Adresse</target>
+        </trans-unit>
+        <trans-unit id="PageExtension 3116119116 - Control 52796097 - Property 1295455071" translate="yes" size-unit="char" xml:space="preserve">
+          <source>Specifies the address that the products on the sales document are shipped to. Default (Sell-to Address): The same as the customer's sell-to address. Alternate Ship-to Address: One of the customer's alternate ship-to addresses. Custom Address: Any ship-to address that you specify in the fields below.</source>
+          <target>Gibt die Adresse an, an die die Produkte im Verkaufsbeleg gesendet werden. Standard (Sell-to-Adresse): Identisch mit der Sell-to-Adresse des Kunden. Alternative Lieferadresse: Eine der alternativen Lieferadressen des Kunden. Benutzerdefinierte Adresse: Jede Lieferadresse, die Sie in den folgenden Feldern angeben.</target>
+        </trans-unit>
+        <trans-unit id="PageExtension 3116119116 - Control 52796097 - Property 2879900210" translate="yes" size-unit="char" xml:space="preserve">
+          <source>Ship-to</source>
+          <target>Versenden nach</target>
+        </trans-unit>
+        <trans-unit id="PageExtension 3116119116 - Control 52796097 - Property 62802879" translate="yes" size-unit="char" xml:space="preserve">
+          <source>Default (Sell-to Address),Alternate Shipping Address,Custom Address</source>
+          <target>Standard (Verkaufsadresse),Alternative Lieferadresse,Benutzerdefinierte Adresse</target>
+        </trans-unit>
+        <trans-unit id="PageExtension 3157100689 - Control 3543129988 - Property 2879900210" translate="yes" size-unit="char" xml:space="preserve">
+          <source>Blocked</source>
+          <target>Gesperrt</target>
+        </trans-unit>
+        <trans-unit id="PageExtension 3794797306 - Control 3543129988 - Property 2879900210" translate="yes" size-unit="char" xml:space="preserve">
+          <source>Blocked</source>
+          <target>Gesperrt</target>
+        </trans-unit>
+        <trans-unit id="Table 2799067708 - Field 1855949917 - Property 2879900210" translate="yes" size-unit="char" xml:space="preserve">
+          <source>Warranty Finish Date</source>
+          <target>Enddatum der Garantie</target>
+        </trans-unit>
+        <trans-unit id="Table 2799067708 - Field 3399053708 - Property 2879900210" translate="yes" size-unit="char" xml:space="preserve">
+          <source>Warranty start date</source>
+          <target>Startdatum der Garantie</target>
+        </trans-unit>
+        <trans-unit id="Table 2799067708 - Field 350252134 - Property 2879900210" translate="yes" size-unit="char" xml:space="preserve">
+          <source>Warranty description</source>
+          <target>Beschreibung der Garantie</target>
+        </trans-unit>
+        <trans-unit id="Table 2799067708 - Field 427028794 - Property 2879900210" translate="yes" size-unit="char" xml:space="preserve">
+          <source>Warranty ID No.</source>
+          <target>Garantie-ID-Nr.</target>
+        </trans-unit>
+        <trans-unit id="TableExtension 1009479397 - Field 3543129988 - Property 2879900210" translate="yes" size-unit="char" xml:space="preserve">
+          <source>Blocked</source>
+          <target>Gesperrt</target>
+        </trans-unit>
+        <trans-unit id="TableExtension 2099774537 - Field 1903978320 - Property 2879900210" translate="yes" size-unit="char" xml:space="preserve">
+          <source>Warranty</source>
+          <target>Garantie</target>
+        </trans-unit>
+      </group>
+    </body>
+  </file>
+</xliff>

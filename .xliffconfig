@@ -1,0 +1,46 @@
+﻿{
+  "Languages": [
+    {
+      "Language": "en-US",
+      "LinkToLanguage": null,
+      "Enabled": true,
+      "Hidden": false
+    },
+    {
+      "Language": "it-CH",
+      "LinkToLanguage": "it-IT",
+      "Enabled": true,
+      "Hidden": true
+    },
+    {
+      "Language": "it-IT",
+      "LinkToLanguage": null,
+      "Enabled": true,
+      "Hidden": false
+    },
+    {
+      "Language": "de-AT",
+      "LinkToLanguage": "de-DE",
+      "Enabled": true,
+      "Hidden": true
+    },
+    {
+      "Language": "de-CH",
+      "LinkToLanguage": "de-DE",
+      "Enabled": true,
+      "Hidden": true
+    },
+    {
+      "Language": "de-DE",
+      "LinkToLanguage": null,
+      "Enabled": true,
+      "Hidden": false
+    },
+    {
+      "Language": "de-IT",
+      "LinkToLanguage": "de-DE",
+      "Enabled": true,
+      "Hidden": true
+    }
+  ]
+}
