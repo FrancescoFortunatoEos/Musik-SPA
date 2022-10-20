@@ -1,6 +1,8 @@
 table 50100 "MSK Garanzie"
 {
     DataClassification = CustomerContent;
+    LookupPageId = "MSK Info List";
+    DrillDownPageId = "MSK Info List";
 
     fields
     {
@@ -30,6 +32,14 @@ table 50100 "MSK Garanzie"
             Clustered = true;
         }
     }
+
+    fieldgroups
+    {
+        fieldgroup(DropDown; "Warranty ID No.", "Warranty description", "Warranty start date", "Warranty Finish Date")
+        {
+        }
+    }
+
     var
         myInt: Integer;
 

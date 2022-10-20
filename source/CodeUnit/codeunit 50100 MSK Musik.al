@@ -9,7 +9,7 @@ codeunit 50100 "MSK Musik"
     )
     begin
         if ((SalesHeader."Responsibility Center" = '') Or (SalesHeader."External Document No." = '') Or (SalesHeader."Reason Code" = '')) then
-            Error('Insert the responsibility center, the external document number and the reason code.');
+            Error('Three fields must be entered: responsibility center, external document number and reason code. Check these fields.');
     end;
 
     [EventSubscriber(ObjectType::Page, Page::"Sales Order", 'OnBeforeValidateShipToOptions', '', false, false)]
@@ -41,7 +41,7 @@ codeunit 50100 "MSK Musik"
         if not xRec.Blocked then
             exit;
         if Rec.Blocked or xRec.Blocked then
-            Error('You cannot modify this record, it''s blocked');
+            Error('Unable to modify this record, it is blocked');
     end;
 
     [EventSubscriber(ObjectType::Table, Database::"Ship-to Address", 'OnBeforeRenameEvent', '', false, false)]
@@ -50,7 +50,7 @@ codeunit 50100 "MSK Musik"
         if not xRec.Blocked then
             exit;
         if Rec.Blocked or xRec.Blocked then
-            Error('You cannot modify this record, it''s blocked');
+            Error('Unable to modify this record, it is blocked');
     end;
 
     // [EventSubscriber(ObjectType::Page, Page::"Ship-to Address", '', '', false, false)]
